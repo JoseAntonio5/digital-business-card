@@ -1,0 +1,15 @@
+.Interests {
+    color: #F5F5F5;
+    width: 247px;
+    margin: 0 auto;
+}
+
+.Interests h3 {
+    margin: 18px 0 5px 0;
+    font-size: 16px;
+}
+
+.Interests p {
+    font-size: 12px;
+    line-height: 16px;
+}

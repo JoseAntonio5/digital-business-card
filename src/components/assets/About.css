@@ -1,0 +1,15 @@
+.About {
+    color: #F5F5F5;
+    width: 247px;
+    margin: 0 auto;
+}
+
+.About h3 {
+    margin: 10px 0 5px 0;
+    font-size: 16px;
+}
+
+.About p {
+    font-size: 12px;
+    line-height: 16px;
+}
