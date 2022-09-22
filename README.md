@@ -2,6 +2,9 @@
 
 This project is a solution to the first module of a React course on [Scrimba](https://scrimba.com/). Scrimba is an online platform where you can improve your skills by creating real projects!
 
+### Check it out by yourself!
+[Click Here](https://gleeful-tartufo-49b090.netlify.app/) to go to the card page!
+
 #### Screenshot 💻
 ![](images/img.png)
 
